@@ -99,7 +99,7 @@ Vibe_Matcher_Recommender/
 ## 🚀 How to Run
 
 ### **In Google Colab**
-1. Open [Google Colab[](https://colab.research.google.com/drive/1rRXSDriUU-ZxXwsRkyG8dC5bogDq-CxQ)
+1. Open [Google Colab[](https://colab.research.google.com/drive/1rRXSDriUU-ZxXwsRkyG8dC5bogDq-CxQ)]
 2. Upload `Vibe_Matcher_Recommender.ipynb`
 3. (Optional) Add your OpenAI API key in the first cell
 4. Run all cells → view vibe matches + latency plots
